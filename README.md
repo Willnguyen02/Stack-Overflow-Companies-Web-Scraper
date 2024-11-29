@@ -1,8 +1,11 @@
 # Stack Oveflow Web Scraping and Data Analytics Project
 
-link: https://stackoverflow.com/jobs/companies
+Objective:
+- Explore webscraping techniques through python's BeautifulSoup library
+- Extract data from multiple sources(pages) and create a dataset
+- Clean, organize, and prepare data for analysis
 
-https://www.convertcsv.com/csv-to-sql.htm 
+References:
+- https://stackoverflow.com/jobs/companies
+- https://www.convertcsv.com/csv-to-sql.htm 
 
-Architecture Design:
-![image](https://github.com/user-attachments/assets/896bdc55-0672-46d2-b18a-13e3e40d1735)
