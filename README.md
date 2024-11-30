@@ -1,4 +1,4 @@
-# Stack Oveflow Web Scraping and Data Analytics Project
+# Stack Oveflow Companies Web Scraping Project
 
 Objective:
 - Explore webscraping techniques through python's BeautifulSoup library
